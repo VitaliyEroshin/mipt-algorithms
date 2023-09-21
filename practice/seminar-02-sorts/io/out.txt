@@ -1,0 +1,12 @@
+Initial array:
+0 0 -8 -7 -3 -9 -7 
+
+Sorted array (with no comparator)
+-9 -8 -7 -7 -3 0 0 
+
+Sorted array (with function comparator)
+0 0 -3 -7 -7 -8 -9 
+
+Sorted array (with lambda comparator)
+0 0 -3 -7 -7 -8 -9 
+
