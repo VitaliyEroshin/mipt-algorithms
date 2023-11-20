@@ -1,4 +1,5 @@
 #include "support.hpp"
+#include <vector>
 #include "segment-tree-rmq.hpp"
 
 void TestSetElement() {
